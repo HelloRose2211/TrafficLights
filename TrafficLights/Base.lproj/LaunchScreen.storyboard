@@ -32,12 +32,14 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstAttribute="bottom" secondItem="aHd-H0-HyU" secondAttribute="bottom" constant="480" id="HEX-hr-Qqg"/>
-                            <constraint firstItem="aHd-H0-HyU" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="22" id="Idh-5e-HAY"/>
-                            <constraint firstItem="aHd-H0-HyU" firstAttribute="leading" secondItem="8fZ-AG-3sI" secondAttribute="leading" id="Ml1-jK-tvr"/>
-                            <constraint firstItem="8fZ-AG-3sI" firstAttribute="top" secondItem="aHd-H0-HyU" secondAttribute="bottom" constant="20" id="RSZ-re-w34"/>
-                            <constraint firstItem="aHd-H0-HyU" firstAttribute="trailing" secondItem="8fZ-AG-3sI" secondAttribute="trailing" id="b1J-52-mec"/>
-                            <constraint firstItem="aHd-H0-HyU" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="uZR-by-ysL"/>
+                            <constraint firstItem="8fZ-AG-3sI" firstAttribute="top" secondItem="aHd-H0-HyU" secondAttribute="bottom" constant="20" id="2tz-tw-3hy"/>
+                            <constraint firstItem="aHd-H0-HyU" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="22" id="7FM-cF-fnL"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="aHd-H0-HyU" secondAttribute="trailing" constant="32" id="CA3-WL-TGc"/>
+                            <constraint firstItem="8fZ-AG-3sI" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="32" id="T5U-Kr-9oY"/>
+                            <constraint firstItem="aHd-H0-HyU" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="32" id="cGg-CU-csK"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="8fZ-AG-3sI" secondAttribute="bottom" constant="76" id="i84-hu-wxG"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="8fZ-AG-3sI" secondAttribute="trailing" constant="32" id="is0-To-z5y"/>
+                            <constraint firstItem="8fZ-AG-3sI" firstAttribute="height" secondItem="aHd-H0-HyU" secondAttribute="height" id="lCt-Jn-EzI"/>
                         </constraints>
                     </view>
                 </viewController>
