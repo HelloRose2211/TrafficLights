@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C6716E68282F674A005CE1F8 /* TrafficLights.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrafficLights.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C6716E68282F674A005CE1F8 /* AutoLayoutConstrains.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AutoLayoutConstrains.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6716E6B282F674A005CE1F8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C6716E6D282F674A005CE1F8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		C6716E6F282F674A005CE1F8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		C6716E69282F674A005CE1F8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C6716E68282F674A005CE1F8 /* TrafficLights.app */,
+				C6716E68282F674A005CE1F8 /* AutoLayoutConstrains.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C6716E67282F674A005CE1F8 /* TrafficLights */ = {
+		C6716E67282F674A005CE1F8 /* AutoLayoutConstrains */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C6716E7C282F674A005CE1F8 /* Build configuration list for PBXNativeTarget "TrafficLights" */;
+			buildConfigurationList = C6716E7C282F674A005CE1F8 /* Build configuration list for PBXNativeTarget "AutoLayoutConstrains" */;
 			buildPhases = (
 				C6716E64282F674A005CE1F8 /* Sources */,
 				C6716E65282F674A005CE1F8 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = TrafficLights;
+			name = AutoLayoutConstrains;
 			productName = TrafficLights;
-			productReference = C6716E68282F674A005CE1F8 /* TrafficLights.app */;
+			productReference = C6716E68282F674A005CE1F8 /* AutoLayoutConstrains.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C6716E63282F674A005CE1F8 /* Build configuration list for PBXProject "TrafficLights" */;
+			buildConfigurationList = C6716E63282F674A005CE1F8 /* Build configuration list for PBXProject "AutoLayoutConstrains" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C6716E67282F674A005CE1F8 /* TrafficLights */,
+				C6716E67282F674A005CE1F8 /* AutoLayoutConstrains */,
 			);
 		};
 /* End PBXProject section */
@@ -341,7 +341,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C6716E63282F674A005CE1F8 /* Build configuration list for PBXProject "TrafficLights" */ = {
+		C6716E63282F674A005CE1F8 /* Build configuration list for PBXProject "AutoLayoutConstrains" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C6716E7A282F674A005CE1F8 /* Debug */,
@@ -350,7 +350,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C6716E7C282F674A005CE1F8 /* Build configuration list for PBXNativeTarget "TrafficLights" */ = {
+		C6716E7C282F674A005CE1F8 /* Build configuration list for PBXNativeTarget "AutoLayoutConstrains" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C6716E7D282F674A005CE1F8 /* Debug */,
