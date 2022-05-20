@@ -17,11 +17,11 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="3XO-jR-wKz">
-                                <rect key="frame" x="40" y="75" width="334" height="335"/>
+                                <rect key="frame" x="40" y="75" width="334" height="342.66666666666669"/>
                                 <color key="backgroundColor" systemColor="systemGreenColor"/>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="4SY-PH-xde">
-                                <rect key="frame" x="40" y="481" width="334" height="335"/>
+                                <rect key="frame" x="40" y="488.66666666666674" width="334" height="342.33333333333326"/>
                                 <color key="backgroundColor" systemColor="systemRedColor"/>
                             </view>
                         </subviews>
@@ -33,7 +33,7 @@
                             <constraint firstItem="4SY-PH-xde" firstAttribute="leading" secondItem="yCo-V3-tOO" secondAttribute="leading" constant="40" id="Hn7-QA-4Ri"/>
                             <constraint firstItem="3XO-jR-wKz" firstAttribute="leading" secondItem="yCo-V3-tOO" secondAttribute="leading" constant="40" id="OLo-qu-NSw"/>
                             <constraint firstItem="yCo-V3-tOO" firstAttribute="trailing" secondItem="4SY-PH-xde" secondAttribute="trailing" constant="40" id="Rtd-ny-DZ8"/>
-                            <constraint firstItem="yCo-V3-tOO" firstAttribute="bottom" secondItem="4SY-PH-xde" secondAttribute="bottom" constant="46" id="VBy-ay-6V2"/>
+                            <constraint firstItem="yCo-V3-tOO" firstAttribute="bottom" secondItem="4SY-PH-xde" secondAttribute="bottom" constant="31" id="VBy-ay-6V2"/>
                             <constraint firstItem="4SY-PH-xde" firstAttribute="top" secondItem="3XO-jR-wKz" secondAttribute="bottom" constant="71" id="XDD-cD-t2F"/>
                             <constraint firstItem="3XO-jR-wKz" firstAttribute="top" secondItem="yCo-V3-tOO" secondAttribute="top" constant="31" id="wnJ-bt-duZ"/>
                         </constraints>
